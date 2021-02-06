@@ -1,6 +1,6 @@
 # LeScone
 
-<img src="img/projeto.png" alt="exemplo imagem">
+<img src="img/projeto.png" alt="foto do projeto">
 
 > Projeto criado no curso da origamid, criado com html e sass.
 
